@@ -6,6 +6,6 @@ This is first intended to be filled with dirt or wet sand in order to give it so
 
 These are the results in which I have printed:
 
-![](https://imgur.com/SNvZiXL)
-![](https://imgur.com/CwoIEgG)
-![](https://imgur.com/VCgczzB)
+![](https://imgur.com/SNvZiXL.jpg)
+![](https://imgur.com/CwoIEgG.jpg)
+![](https://imgur.com/VCgczzB.jpg)
